@@ -2,7 +2,7 @@ owner: swipload
 repo: status
 
 sites:
-  - name: Swipload application
+  - name: Application
     url: $STATUS_APPURL
     maxResponseTime: 5000
   - name: API
@@ -19,7 +19,7 @@ sites:
 status-website:
   cname: status.swipload.com
   # baseUrl: /status
-  logoUrl: https://uploads-ssl.webflow.com/64b538b27cabeaaa12e11c6b/64e84c55acfdaa169636cf7e_Logo-Swipload-Blue.svg
+  logoUrl: https://uploads-ssl.webflow.com/64b538b27cabeaaa12e11c6b/64e85127f7e60949397a3360_Webclip-2.png
   favicon: https://uploads-ssl.webflow.com/64b538b27cabeaaa12e11c6b/64e8511bb00b97ccab1cdff6_Favicon2.png
   name: Status
   introTitle: "**Swipload Services Status**"
@@ -30,3 +30,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER
+
+commitMessages:
+  commitAuthorName: "Swip Bot"
+  commitAuthorEmail: "status-bot@swipload.com"
