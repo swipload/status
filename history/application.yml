@@ -1,7 +1,7 @@
 url: $STATUS_APPURL
-status: degraded
+status: up
 code: 200
-responseTime: 9751
-lastUpdated: 2023-09-12T06:27:03.300Z
+responseTime: 1322
+lastUpdated: 2023-09-12T06:36:07.140Z
 startTime: 2023-09-09T01:43:56.214Z
 generator: Upptime <https://github.com/upptime/upptime>
