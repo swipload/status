@@ -4,18 +4,20 @@
     "url": "$STATUS_APPURL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "application",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1895,
-    "timeDay": 1524,
-    "timeWeek": 1455,
-    "timeMonth": 1895,
-    "timeYear": 1895,
-    "dailyMinutesDown": {}
+    "time": 3043,
+    "timeDay": 10322,
+    "timeWeek": 3663,
+    "timeMonth": 3043,
+    "timeYear": 3043,
+    "dailyMinutesDown": {
+      "2023-09-20": 0
+    }
   },
   {
     "name": "API",
