@@ -6,8 +6,8 @@
     "slug": "application",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1947,
@@ -15,25 +15,29 @@
     "timeWeek": 1145,
     "timeMonth": 2032,
     "timeYear": 1947,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-11": 1
+    }
   },
   {
     "name": "API",
     "url": "$STATUS_APIURL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 684,
-    "timeWeek": 583,
-    "timeMonth": 598,
-    "timeYear": 581,
-    "dailyMinutesDown": {}
+    "time": 783,
+    "timeDay": 4178,
+    "timeWeek": 1469,
+    "timeMonth": 827,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2023-10-11": 0
+    }
   },
   {
     "name": "Integrations",
