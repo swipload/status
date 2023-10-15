@@ -6,7 +6,7 @@
     "slug": "application",
     "status": "up",
     "uptime": "95.83%",
-    "uptimeDay": "17.95%",
+    "uptimeDay": "18.64%",
     "uptimeWeek": "78.26%",
     "uptimeMonth": "95.00%",
     "uptimeYear": "95.83%",
@@ -63,19 +63,19 @@
     "url": "https://www.swipload.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swipload.com.ico",
     "slug": "www-swipload-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 376,
-    "timeWeek": 489,
-    "timeMonth": 519,
-    "timeYear": 499,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 503,
+    "timeDay": 442,
+    "timeWeek": 509,
+    "timeMonth": 525,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2023-10-15": 0
+      "2023-10-15": 10
     }
   }
 ]
