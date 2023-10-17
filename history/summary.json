@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "application",
     "status": "up",
-    "uptime": "95.99%",
+    "uptime": "96.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "78.26%",
     "uptimeMonth": "95.00%",
-    "uptimeYear": "95.99%",
+    "uptimeYear": "96.00%",
     "time": 2705,
     "timeDay": 1123,
     "timeWeek": 5362,
@@ -63,17 +63,19 @@
     "url": "https://www.swipload.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swipload.com.ico",
     "slug": "www-swipload-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 718,
-    "timeWeek": 486,
-    "timeMonth": 535,
-    "timeYear": 508,
-    "dailyMinutesDown": {}
+    "time": 505,
+    "timeDay": 559,
+    "timeWeek": 479,
+    "timeMonth": 531,
+    "timeYear": 505,
+    "dailyMinutesDown": {
+      "2023-10-17": 0
+    }
   }
 ]
