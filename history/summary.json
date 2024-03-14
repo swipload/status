@@ -47,19 +47,19 @@
     "url": "$STATUS_INTEGRATIONSURL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "integrations",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1066,
-    "timeDay": 953,
-    "timeWeek": 1050,
-    "timeMonth": 1025,
-    "timeYear": 1066,
+    "time": 1071,
+    "timeDay": 1469,
+    "timeWeek": 1184,
+    "timeMonth": 1058,
+    "timeYear": 1071,
     "dailyMinutesDown": {
-      "2024-03-14": 0
+      "2024-03-14": 7
     }
   },
   {
