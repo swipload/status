@@ -47,9 +47,9 @@
     "url": "$STATUS_INTEGRATIONSURL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "integrations",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -58,7 +58,9 @@
     "timeWeek": 1224,
     "timeMonth": 1012,
     "timeYear": 1057,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-27": 0
+    }
   },
   {
     "name": "www.swipload.com",
