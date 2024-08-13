@@ -1,7 +1,7 @@
 url: $STATUS_INTEGRATIONSURL
-status: degraded
+status: up
 code: 302
-responseTime: 10580
-lastUpdated: 2024-08-13T09:43:32.508Z
+responseTime: 1004
+lastUpdated: 2024-08-13T09:51:42.484Z
 startTime: 2023-09-09T00:38:30.387Z
 generator: Upptime <https://github.com/upptime/upptime>
