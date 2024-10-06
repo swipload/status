@@ -1,7 +1,7 @@
 url: $STATUS_INTEGRATIONSURL
-status: up
-code: 302
-responseTime: 565
-lastUpdated: 2024-10-05T23:17:52.111Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-10-06T04:17:49.036Z
 startTime: 2023-09-09T00:38:30.387Z
 generator: Upptime <https://github.com/upptime/upptime>
