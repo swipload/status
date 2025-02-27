@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1622,
-    "timeDay": 2348,
-    "timeWeek": 2074,
-    "timeMonth": 1837,
-    "timeYear": 1761,
+    "timeDay": 1035,
+    "timeWeek": 1823,
+    "timeMonth": 1808,
+    "timeYear": 1759,
     "dailyMinutesDown": {
       "2024-08-07": 17
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 688,
-    "timeWeek": 612,
-    "timeMonth": 531,
+    "timeDay": 432,
+    "timeWeek": 573,
+    "timeMonth": 521,
     "timeYear": 570,
     "dailyMinutesDown": {}
   },
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.60%",
     "time": 1004,
-    "timeDay": 710,
-    "timeWeek": 605,
-    "timeMonth": 581,
-    "timeYear": 993,
+    "timeDay": 433,
+    "timeWeek": 578,
+    "timeMonth": 574,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2025-02-20": 129,
       "2025-01-30": 41,
@@ -137,17 +137,16 @@
     "slug": "www-swipload-com",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 602,
-    "timeDay": 597,
-    "timeWeek": 771,
-    "timeMonth": 808,
+    "timeDay": 504,
+    "timeWeek": 747,
+    "timeMonth": 801,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2025-02-26": 9,
       "2024-10-23": 15
     }
   }
