@@ -77,18 +77,19 @@
     "url": "https://www.swipload.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.swipload.com.ico",
     "slug": "www-swipload-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 637,
-    "timeDay": 448,
-    "timeWeek": 573,
-    "timeMonth": 507,
+    "timeDay": 548,
+    "timeWeek": 582,
+    "timeMonth": 512,
     "timeYear": 651,
     "dailyMinutesDown": {
+      "2025-12-05": 0,
       "2025-03-19": 17
     }
   }
